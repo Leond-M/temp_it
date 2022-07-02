@@ -1,0 +1,10 @@
+220 (vsFTPd 2.3.4)
+SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1
+220 metasploitable.localdomain ESMTP Postfix (Ubuntu)
+Where are you?
+root@metasploitable:/# 
+RFB 003.003
+FreeFloat Ftp Server (Version 1.00)
+3Com 3CDaemon FTP Server Version 2.0
+Ability Server 2.34
+Sami FTP Server 2.0.2
